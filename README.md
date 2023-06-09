@@ -67,5 +67,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 If you have any questions or inquiries, please feel free to contact the project maintainer:
 
 Sarfraz Nawaz
+
 Email: informsarfu@gmail.com
+
 GitHub: https://github.com/informsarfu/

@@ -45,6 +45,10 @@ The design process for the 3D printable patch antenna can be summarized as follo
 
 Present the results obtained from the simulations and testing, including the performance metrics of the designed patch antenna. Discuss the achieved characteristics in comparison to the desired specifications and evaluate the suitability of the antenna for wearable applications at the 3.7 GHz frequency range.
 
+## Publication
+
+This research project was published as a chapter in the springer journal titled "Futuristic Communication and Network Technologies." Check out the link for the journal - https://link.springer.com/chapter/10.1007/978-981-19-9748-8_3
+
 ## Future Work
 
 Suggest potential avenues for future development and improvement of the 3D printable patch antenna. This may include exploring different materials, optimizing the design for specific wearable devices, and investigating other fabrication techniques.
